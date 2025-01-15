@@ -38,11 +38,11 @@ The models achieved the following results:
   - **R² Score**: 0.73
   - **Mean Absolute Error (MAE)**: 1.62
   - **Mean Squared Error (MAE)**: 5.59
-1. Ridge Regression
+2. Ridge Regression
   - **R² Score**: 0.72
   - **Mean Absolute Error (MAE)**: 1.65
   - **Mean Squared Error (MAE)**: 5.65
-1. Lasso Regression
+3. Lasso Regression
   - **R² Score**: 0.76
   - **Mean Absolute Error (MAE)**: 1.42
   - **Mean Squared Error (MAE)**: 4.69
